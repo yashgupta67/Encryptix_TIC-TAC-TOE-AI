@@ -8,3 +8,9 @@ This project showcases a classic game of Tic-Tac-Toe with an AI opponent that ut
 1. Game Representation: A way to represent the Tic-Tac-Toe board and track moves.
 2. Minimax Algorithm: The core algorithm that evaluates the optimal move.
 3. Alpha-Beta Pruning: An optimization of Minimax that reduces the number of nodes evaluated.
+
+
+## How it Works
+AI vs. Human: The AI uses the Minimax algorithm to decide its moves, making it unbeatable as it always aims to minimize the potential loss.
+Interaction: The human player enters moves by typing numbers from 0 to 8, corresponding to board positions.
+Board Display: The board is displayed in the console after each move.
