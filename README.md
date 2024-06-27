@@ -11,6 +11,6 @@ This project showcases a classic game of Tic-Tac-Toe with an AI opponent that ut
 
 
 ## How it Works
-AI vs. Human: The AI uses the Minimax algorithm to decide its moves, making it unbeatable as it always aims to minimize the potential loss.
-Interaction: The human player enters moves by typing numbers from 0 to 8, corresponding to board positions.
-Board Display: The board is displayed in the console after each move.
+1. **AI vs. Human:** The AI uses the Minimax algorithm to decide its moves, making it unbeatable as it always aims to minimize the potential loss.
+2. **Interaction:** The human player enters moves by typing numbers from 0 to 8, corresponding to board positions.
+3. **Board Display:** The board is displayed in the console after each move.
